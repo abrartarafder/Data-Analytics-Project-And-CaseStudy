@@ -41,7 +41,16 @@ In order to show the differences between each rider, R (programming language) wa
 
 # ACT ----------------------------------------------------
 
-- With this data in mind, the company Cyclist can now act upon the data by appealing more to tourists and casuals since they ride longer, while also catering to the members since they are more consistent
-					 				
+
+What can cyclistic do with this information ?
+- Present further information on Tableau and make interactive dashboards showing data that is unfiltered and connecting it to a map
+- Use the data gathered and try to cater to more casual riders since they ride a lot less BUT ride for much longer
+- Now that they know that casual riders use bikes the longest, they can now cater to more casual riders and find out why they use the bikes for so long.
+- Gather more information such as which biking stations are used the most in order to advertise there.
+- Use advertising and marketing to cater
+# Spreadsheet Links
+Link to Filtered Spreadsheet	
+Link to Unfiltered Raw Spreadsheet	
+		
 
 
