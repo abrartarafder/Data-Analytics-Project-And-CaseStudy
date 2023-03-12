@@ -18,7 +18,7 @@ After filtering the data, the data is then put into spreadsheets where they are 
 
 # ANALYZE -----------------------------------------------------------
 
-Processing on google sheets -- using cell formulas, the date was removed and the times were extracted in a different cell in order to obtain the start time in one cell,  the end time in another cell and then getting the difference in a new cell to find out how long each rider took. The data was also reduced significantly in sheets and filtered further to keep the data relevant all the way down to about 400 riders who were a good sample size as a representative of the overall population. The new data is transferred to a different spreadsheet
+Processing on google sheets -- using cell formulas, the date was removed and the times were extracted in a different cell in order to obtain the start time in one cell,  the end time in another cell and then getting the difference in a new cell to find out how long each rider took. The data was also reduced significantly in sheets and filtered further to keep the data relevant all the way down to about 400 riders who were a good sample size as a representative of the overall population. The new data is transferred to a different spreadsheet 
 
 Answers to the Questions based on Analysis:
 # Q1: How do annual members and casual riders use Cyclistic bikes differently?
