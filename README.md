@@ -1,4 +1,4 @@
-# DataAnalyticsCaseStudy 
+# Google Data Analytics Capstone Project and Case Study
 ## [Link to Slides for better visuals here](https://docs.google.com/presentation/d/1w72tFtqQIUHG5KSLIH_DBT07t3_pwRnN-tJ7Zmjpxf4/edit?usp=sharing)
 
 # ASK ----------------------------------------------------
