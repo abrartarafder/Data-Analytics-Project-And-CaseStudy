@@ -11,12 +11,12 @@ Why would casual riders buy Cyclistic annual memberships?
 - Tourism, more distance perhaps, attractions and sighseeing
 How digital media could affect their marketing tactics?
 
-# PROCESS ---------------------------------------------------------------
+# PROCESS -----------------------------------------------------------
 
 SQL is first used to clean the data and remove any data that are not part of member riders or casual riders since those are the only two sample sizes being targeted.
 After filtering the data, the data is then put into spreadsheets where they are analyzed more closely (the dataset contains information on roughly 430,000 cyclists).
 
-# ANALYZE ---------------------------------------------------------------
+# ANALYZE -----------------------------------------------------------
 
 Processing on google sheets -- using cell formulas, the date was removed and the times were extracted in a different cell in order to obtain the start time in one cell,  the end time in another cell and then getting the difference in a new cell to find out how long each rider took. The data was also reduced significantly in sheets and filtered further to keep the data relevant all the way down to about 400 riders who were a good sample size as a representative of the overall population. The new data is transferred to a different spreadsheet
 
