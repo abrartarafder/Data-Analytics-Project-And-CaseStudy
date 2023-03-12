@@ -49,8 +49,8 @@ What can cyclistic do with this information ?
 - Gather more information such as which biking stations are used the most in order to advertise there.
 - Use advertising and marketing to cater
 # Spreadsheet Links
-[Link to Filtered Spreadsheet](https://docs.google.com/spreadsheets/d/1TrIzjy23xh1zGCzlhD6lcWDaxceQRToZO4_JLwrw7Lw/edit#gid=0)
-[Link to Unfiltered Raw Spreadsheet](https://docs.google.com/spreadsheets/d/1NHBdTPRkSOUnPQoNU0Vk-9FrfsL4YlZrz612V-8N4Ec/edit#gid=1316045221)
+- [Link to Filtered Spreadsheet](https://docs.google.com/spreadsheets/d/1TrIzjy23xh1zGCzlhD6lcWDaxceQRToZO4_JLwrw7Lw/edit#gid=0)
+- [Link to Unfiltered Raw Spreadsheet](https://docs.google.com/spreadsheets/d/1NHBdTPRkSOUnPQoNU0Vk-9FrfsL4YlZrz612V-8N4Ec/edit#gid=1316045221)
 		
 
 
