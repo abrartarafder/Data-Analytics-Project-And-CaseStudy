@@ -11,12 +11,12 @@ Why would casual riders buy Cyclistic annual memberships?
 - Tourism, more distance perhaps, attractions and sighseeing
 How digital media could affect their marketing tactics?
 
-# PROCESS ------------------------------------------------
+# PROCESS -----------------------------------------------
 
 SQL is first used to clean the data and remove any data that are not part of member riders or casual riders since those are the only two sample sizes being targeted.
 After filtering the data, the data is then put into spreadsheets where they are analyzed more closely (the dataset contains information on roughly 430,000 cyclists).
 
-# ANALYZE ------------------------------------------------
+# ANALYZE -----------------------------------------------
 
 Processing on google sheets -- using cell formulas, the date was removed and the times were extracted in a different cell in order to obtain the start time in one cell,  the end time in another cell and then getting the difference in a new cell to find out how long each rider took. The data was also reduced significantly in sheets and filtered further to keep the data relevant all the way down to about 400 riders who were a good sample size as a representative of the overall population. The new data is transferred to a different spreadsheet 
 
@@ -33,7 +33,7 @@ Answer: Casual riders would buy annual memberships if they want to be serious ri
 Answer: The promotion of services through members who are already riding a lot
 - Appeal more to casual riders since those who ride for longer are usually more likely to be tourists
 
-# SHARE -------------------------------------------------
+# SHARE ----------------------------------------------------
 
 In order to show the differences between each rider, R (programming language) was used to display the difference in times between casual riders vs member riders.  The average member riding time in seconds was about 599 seconds, which is about 10 minutes as compared to members who rode on average 2082 seconds which is about 35 minutes.  Spreadsheets and excels were then used to share a scatter plot to give an idea of all the scatter start times and end times as well as members vs casuals in terms of the population. 
 
