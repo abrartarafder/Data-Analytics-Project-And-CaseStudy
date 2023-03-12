@@ -38,7 +38,7 @@ Answer: The promotion of services through members who are already riding a lot
 In order to show the differences between each rider, R (programming language) was used to display the difference in times between casual riders vs member riders.  The average member riding time in seconds was about 599 seconds, which is about 10 minutes as compared to members who rode on average 2082 seconds which is about 35 minutes.  Spreadsheets and excels were then used to share a scatter plot to give an idea of all the scatter start times and end times as well as members vs casuals in terms of the population. 
 
 
-# ACT -----------------------------------------------------
+# ACT ----------------------------------------------------
 
 - With this data in mind, the company Cyclist can now act upon the data by appealing more to tourists and casuals since they ride longer, while also catering to the members since they are more consistent
 					 				
