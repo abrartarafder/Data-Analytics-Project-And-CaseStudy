@@ -1,11 +1,11 @@
 # DataAnalyticsCaseStudy 
-# [Link to Slides for better visuals here](https://docs.google.com/presentation/d/1w72tFtqQIUHG5KSLIH_DBT07t3_pwRnN-tJ7Zmjpxf4/edit?usp=sharing)
+## [Link to Slides for better visuals here](https://docs.google.com/presentation/d/1w72tFtqQIUHG5KSLIH_DBT07t3_pwRnN-tJ7Zmjpxf4/edit?usp=sharing)
 
 # ASK ----------------------------------------------------
-# Problem Statement: 
+## Problem Statement: 
 Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Cycling company called Cyclistic is interested in analyzing the Cyclistic historical bike trip data to identify trends. 
 
-# Questions will guide the future marketing program:
+## Questions will guide the future marketing program:
 How do annual members and casual riders use Cyclistic bikes differently?
 - Consider distance travelled which would be estimated using time rather than latitude
 Why would casual riders buy Cyclistic annual memberships?
@@ -42,13 +42,13 @@ In order to show the differences between each rider, R (programming language) wa
 # ACT ----------------------------------------------------
 
 
-What can cyclistic do with this information ?
+## What can cyclistic do with this information ?
 - Present further information on Tableau and make interactive dashboards showing data that is unfiltered and connecting it to a map
 - Use the data gathered and try to cater to more casual riders since they ride a lot less BUT ride for much longer
 - Now that they know that casual riders use bikes the longest, they can now cater to more casual riders and find out why they use the bikes for so long.
 - Gather more information such as which biking stations are used the most in order to advertise there.
 - Use advertising and marketing to cater
-# Spreadsheet Links
+## Spreadsheet Links
 - [Link to Filtered Spreadsheet](https://docs.google.com/spreadsheets/d/1TrIzjy23xh1zGCzlhD6lcWDaxceQRToZO4_JLwrw7Lw/edit#gid=0)
 - [Link to Unfiltered Raw Spreadsheet](https://docs.google.com/spreadsheets/d/1NHBdTPRkSOUnPQoNU0Vk-9FrfsL4YlZrz612V-8N4Ec/edit#gid=1316045221)
 		
