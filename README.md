@@ -1,6 +1,14 @@
 # Google Data Analytics Capstone Project and Case Study
 ## [Link to Slides for better visuals here](https://docs.google.com/presentation/d/1w72tFtqQIUHG5KSLIH_DBT07t3_pwRnN-tJ7Zmjpxf4/edit?usp=sharing)
 
+## Tools
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+
+
+##
 # ASK ----------------------------------------------------
 ## Problem Statement: 
 Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Cycling company called Cyclistic is interested in analyzing the Cyclistic historical bike trip data to identify trends. 
