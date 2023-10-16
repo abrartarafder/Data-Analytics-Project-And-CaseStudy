@@ -4,7 +4,7 @@
 ## Tools
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![RStudio and Python](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![RStudio and Python](https://img.shields.io/badge/RStudio/Python-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 
 
